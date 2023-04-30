@@ -1,5 +1,5 @@
 # My-Imgurl
-> make my own pics' urls
+> make my own pics' urls **图床**
 ### 修改Vscode背景示例
 - 修改位置在"D:\Microsoft VS Code\resources\app\out\vs\workbench\workbench.desktop.main.css"
 ```
